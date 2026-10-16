@@ -5,10 +5,10 @@ Days 1–4; Day 5's Course 7 lab runs 14:30–15:30), organised by day. Click an
 **Open in Colab** badge to launch a notebook directly in Google Colab — no
 local setup required.
 
-Days 1 to 3 are here now; the other days land as the week goes on. Days 1–4 run on
-CPU with no setup; the Day 5 lab needs a Colab **T4 GPU** and a Hugging Face
-token with the Gemma 3 1B and 4B terms accepted — the setup steps arrive with
-the notebook in [day5/](day5/).
+Days 1 to 3 and Day 5 are here now; Day 4 lands as the week goes on. Days 1–4 run on
+CPU with no setup; the Day 5 lab needs a Colab **T4 GPU** and access to Gemma 3
+1B and 4B, through a Hugging Face token or the shared Google Drive copy. The
+setup steps are in [day5/](day5/).
 
 | Day | Course | Lab | Notebook |
 |-----|--------|-----|----------|
@@ -16,4 +16,4 @@ the notebook in [day5/](day5/).
 | [Day 2](day2/) | Course 3 | Neural Network Training & Overfitting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Kenya-workshop-1/blob/main/course-labs/day2/day2-course3-student.ipynb) |
 | [Day 3](day3/) | Course 4 | A Transformer in 60 Minutes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Kenya-workshop-1/blob/main/course-labs/day3/day3-course4-student.ipynb) |
 | Day 4 | Course 5 | Fine-Tuning a Layer with LoRA | coming soon |
-| Day 5 | Course 7 | Accelerate Your Model | coming soon |
+| [Day 5](day5/) | Course 7 | Accelerate Your Model | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Kenya-workshop-1/blob/main/course-labs/day5/day5-course7-practical-notebook.ipynb) |
